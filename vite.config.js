@@ -5,5 +5,5 @@ import svgr from "vite-plugin-svgr";
 
 export default defineConfig({
   plugins: [react(), svgr()],
-  base: '/Property_House_test/',
+  base: '/PropertyHouse_test/',
 });
